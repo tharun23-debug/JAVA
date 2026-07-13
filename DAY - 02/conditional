@@ -1,0 +1,12 @@
+ackage day2;
+import java.util.Scanner;
+public class conditional {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        int a = input.nextInt();
+        int b = a * 30;
+        int c = b * 12;
+        System.out.println(b);
+        System.out.println(c);
+    }
+}

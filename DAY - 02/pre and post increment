@@ -1,0 +1,9 @@
+package day2;
+
+public class inde {
+    public static void main(String[] args){
+        int a=0;
+        System.out.println(a++ +" ");
+        System.out.println(++a +" ");
+    }
+}
